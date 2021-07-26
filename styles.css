@@ -393,6 +393,10 @@ table tr td:hover{
 
 
 }
+.containerss i:hover{
+    transform: scale(1.2);
+
+}
 
 
 .design-container{
@@ -411,7 +415,8 @@ table tr td:hover{
 }
 
 .design-container h5:hover{
-    transform: scale(1.1);
+    
+    color: whitesmoke!important;
 }
 
 
