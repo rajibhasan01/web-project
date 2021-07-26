@@ -418,4 +418,20 @@ table tr td:hover{
     color: whitesmoke!important;
 }
 
+.font-weight h2{
+    font-weight: 300!important;
+}
+.font-weight{
+    background-image: linear-gradient(#ffffff, rgba(189, 189, 189, 0.932));;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background: cover;
+}
+
+.container img{
+    opacity: 0.4;
+}
+
 
