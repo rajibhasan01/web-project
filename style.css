@@ -195,22 +195,7 @@ nav{
         width: 20%;
         height: 20%;
     }
-    25%{
-        width: 40%;
-        height: 40%;
-    }
-
-   
-    50%{
-        
-        width:60%;
-        height: 60%;
-    }
-    75%{
-
-        width: 80%;
-        height: 80%;
-    }
+  
     100%{
         transform: translate(48vw,0vh)rotate(10deg);
         width: 100%;
@@ -219,8 +204,10 @@ nav{
         
     }
    
-    
 }
+
+ 
+
 
 
 
