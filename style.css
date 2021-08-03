@@ -241,6 +241,11 @@ article{
     display: block;
 }
 
+.design-i{
+    font-size: 64px;
+    color: whitesmoke;
+}
+
 @media  (max-width:1700px){
     article{
         margin-top: 30%;
