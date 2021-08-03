@@ -52,7 +52,7 @@ header::before{
     right: 0;
     top: 0;
     display: block;
-    background-image: linear-gradient(rgba(0,0,0,0.7),#1a243654,#050b165b, rgba(0,0,0,1)), url(image/background/p-8.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),#1a243654,#050b165b, rgba(0,0,0,1)), url(image/background/p-3.jpg);
     background-size: cover;
     transform-origin: center center 0;
     transform: translateZ(-1px) scale(2);
