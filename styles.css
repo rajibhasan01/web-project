@@ -647,4 +647,18 @@ table tr td:hover{
     transform: scale(1.2);
 }
 
+.golgol{
+    width: 7px!important;
+    height: 7px!important;
+    position: absolute;
+    left: 80px;
+    
+}
 
+.display-design{
+    display: none!important;
+}
+
+.cilent-row .text-muted:hover{
+    color: rgb(0, 0, 0)!important;
+}
