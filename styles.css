@@ -89,7 +89,6 @@ header *{
 
 /* make the aside bar sticky */
 .stickyy {
-	position: -webkit-sticky!important ;
 	position: sticky!important;
 	top: 0!important;
     margin-bottom: 19rem!important;
@@ -660,4 +659,15 @@ table tr td:hover{
 
 .cilent-row .text-muted:hover{
     color: rgb(0, 0, 0)!important;
+}
+
+@media (max-width:766px) {
+    .stickyy{ 
+        
+        margin-bottom: 0rem !important;
+
+    }
+    .theme-container{
+        margin-bottom: 10px;
+    }
 }
